@@ -14,72 +14,52 @@
 - 📊 Skilled in test case preparation, bug tracking, and test reporting  
 - 📈 Experienced with Jira, TestRail, and Allure Report  
 
----
-
-## 💼 Work Experience
-
-### 🧪 Software Tester — Datapina  
-📅 **Nov 17, 2025 – Present**  
-- Actively involved in manual testing processes for web applications  
-- Perform functional and exploratory testing to ensure product quality  
-- Create and execute test cases and report results clearly  
-- Track and manage bugs using Jira  
-- Collaborate closely with developers and product teams  
-
-### 🧪 Software Tester — Vairosoft  
-📅 **Mar 2025 – Oct 2025**  
-- Supported outsourced testing teams to maintain consistent quality standards for global clients  
-- Used browser developer tools to support web testing activities  
-- Applied basic JavaScript knowledge during testing processes  
-
-### 📊 Intern Business Analyst — Orien Software  
-📅 **Jan 2023 – Feb 2025**  
-- Defined project scope and gathered business requirements  
-- Prepared detailed analysis and requirement documentation  
-- Created mockups to visualize system functionalities  
-- Tracked testing processes and test cases using Jira  
-- Contributed to an international transportation solution project  
-
-### 🧪 Intern Software Test Specialist — PranaGEO  
-📅 **Aug 2024 – Nov 2024**  
-- Performed manual testing and documentation for the LMS platform **melda.io**  
-- Executed functional and exploratory tests on web applications  
-- Gained basic knowledge of Selenium WebDriver for entry-level automation testing  
-- Learned introductory concepts of JUnit and TestNG  
-- Used Allure Report to visualize and analyze test results  
-- Worked with ClickUp for task management and GitLab for version control  
-
----
-
+--
 ## 🛠️ Technical Skills
 
 ### 🧪 Testing & QA Tools
-- Postman, Cypress  
-- Selenium WebDriver  
-- TestNG, JUnit  
-- Jenkins, Allure Report  
-- TestRail  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure_Report-FF4F64?style=for-the-badge)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
+
+---
 
 ### 💻 Programming Languages
-- Java  
-- C#  
-- Python  
-- JavaScript *(Basic)*  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(Basic)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### 🌐 Web Technologies
-- HTML5  
-- CSS  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ### 🎨 Design & Analysis Tools
-- Figma, Balsamiq  
-- Canva, draw.io  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge)
+
+---
 
 ### 🗄️ Database
-- MSSQL  
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
 
 ### 📋 Project Management & Version Control
-- Jira, ClickUp  
-- GitLab  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
