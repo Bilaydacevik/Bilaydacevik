@@ -21,6 +21,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7A18?style=for-the-badge&logo=browserstack&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -31,7 +33,6 @@
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_(Basic)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -79,7 +80,6 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email: **bilaydacevik@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/büşrailaydaçevik/  
 - 🧑‍💻 GitHub: https://github.com/Bilaydacevik  
 - ✍️ Medium: https://medium.com/@bilaydacevik  
@@ -91,6 +91,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilaydacevik&show_icons=true)
+
 
